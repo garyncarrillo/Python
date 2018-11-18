@@ -1,5 +1,5 @@
 # Python
-Developer on Python
+Developer on Python - Hackus
 
 We should installer the mysql connector on MAC IOS
 export PATH=/usr/local/mysql/bin:$PATH
